@@ -113,3 +113,48 @@ docker ps -a
 sudo docker ps -a
 sudo docker rm 3011
 sudo docker ps -a
+sudo docker images
+ls
+cd chagas-app/
+ls
+cd src
+ls
+cat App.js
+vi App.js
+sudo docker build . -t react-app:1.1
+cd 
+ls
+sudo docker build . -t react-app:1.1
+sudo docker images
+sudo docker rmi c8e
+sudo docker images
+sudo docker run -dti -p 3000:80 react-app:1.1
+sudo docker ps 
+sudo docker stop 514
+sudo docker ps -a
+sudo docker rm 514
+sudo docker ps -a
+sudo docker images
+ls
+cd chagas-app/src/App.js
+vi chagas-app/src/App.js
+sudo docker images
+ls
+sudo docker build -t react-app:1.2
+sudo docker build . -t react-app:1.2
+sudo docker images
+sudo docker run -dti -p 3000:80 ddbe37eaa7ba
+sudo docker ps
+sudo docker rm eb19 --force
+sudo docker ps -a
+sudo docker imaes
+sudo docker images
+sudo docker rmi ddbe
+sudo docker run -dti -p 3000:80 react-app:1.2
+ls
+git -v
+git --version
+ls
+git init
+git add .
+git status

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1695428222,,"wq"
+|2,0,1695430246,,"wq"
 :set nu
 |2,0,1695425907,,"set nu"
 :q!
@@ -34,36 +34,68 @@
 |3,1,0,1,1,0,1695423470,""
 
 # File marks:
-'0  11  11  ~/chagas-app/src/App.js
-|4,48,11,11,1695428222,"~/chagas-app/src/App.js"
-'1  11  11  ~/chagas-app/src/App.js
-|4,49,11,11,1695427438,"~/chagas-app/src/App.js"
-'2  30  0  ~/dockerfile
-|4,50,30,0,1695426850,"~/dockerfile"
-'3  7  87  ~/dockerfile
-|4,51,7,87,1695426651,"~/dockerfile"
-'4  7  87  ~/dockerfile
-|4,52,7,87,1695426651,"~/dockerfile"
-'5  8  16  ~/dockerfile
-|4,53,8,16,1695426571,"~/dockerfile"
-'6  8  16  ~/dockerfile
-|4,54,8,16,1695426571,"~/dockerfile"
-'7  9  2  ~/dockerfile
-|4,55,9,2,1695426403,"~/dockerfile"
-'8  9  2  ~/dockerfile
-|4,56,9,2,1695426403,"~/dockerfile"
-'9  10  2  ~/dockerfile
-|4,57,10,2,1695426403,"~/dockerfile"
+'0  4  37  ~/readme.md
+|4,48,4,37,1695430246,"~/readme.md"
+'1  4  38  ~/readme.md
+|4,49,4,38,1695430203,"~/readme.md"
+'2  11  11  ~/chagas-app/src/App.js
+|4,50,11,11,1695428222,"~/chagas-app/src/App.js"
+'3  11  11  ~/chagas-app/src/App.js
+|4,51,11,11,1695427438,"~/chagas-app/src/App.js"
+'4  30  0  ~/dockerfile
+|4,52,30,0,1695426850,"~/dockerfile"
+'5  7  87  ~/dockerfile
+|4,53,7,87,1695426651,"~/dockerfile"
+'6  7  87  ~/dockerfile
+|4,54,7,87,1695426651,"~/dockerfile"
+'7  8  16  ~/dockerfile
+|4,55,8,16,1695426571,"~/dockerfile"
+'8  8  16  ~/dockerfile
+|4,56,8,16,1695426571,"~/dockerfile"
+'9  9  2  ~/dockerfile
+|4,57,9,2,1695426403,"~/dockerfile"
 
 # Jumplist (newest first):
+-'  4  37  ~/readme.md
+|4,39,4,37,1695430246,"~/readme.md"
+-'  4  38  ~/readme.md
+|4,39,4,38,1695430203,"~/readme.md"
+-'  1  0  ~/readme.md
+|4,39,1,0,1695429907,"~/readme.md"
+-'  1  0  ~/readme.md
+|4,39,1,0,1695429907,"~/readme.md"
 -'  11  11  ~/chagas-app/src/App.js
 |4,39,11,11,1695428222,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695428222,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695428222,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695428222,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695427438,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695427438,"~/chagas-app/src/App.js"
+-'  11  11  ~/chagas-app/src/App.js
+|4,39,11,11,1695427438,"~/chagas-app/src/App.js"
 -'  11  11  ~/chagas-app/src/App.js
 |4,39,11,11,1695427438,"~/chagas-app/src/App.js"
 -'  1  0  ~/chagas-app/src/App.js
 |4,39,1,0,1695427355,"~/chagas-app/src/App.js"
 -'  1  0  ~/chagas-app/src/App.js
 |4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
+-'  1  0  ~/chagas-app/src/App.js
+|4,39,1,0,1695427355,"~/chagas-app/src/App.js"
 -'  30  0  ~/dockerfile
 |4,39,30,0,1695426850,"~/dockerfile"
 -'  30  0  ~/dockerfile
@@ -72,6 +104,54 @@
 |4,39,30,0,1695426850,"~/dockerfile"
 -'  30  0  ~/dockerfile
 |4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  30  0  ~/dockerfile
+|4,39,30,0,1695426850,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
+-'  1  0  ~/dockerfile
+|4,39,1,0,1695426796,"~/dockerfile"
 -'  1  0  ~/dockerfile
 |4,39,1,0,1695426796,"~/dockerfile"
 -'  1  0  ~/dockerfile
@@ -96,6 +176,54 @@
 |4,39,7,87,1695426651,"~/dockerfile"
 -'  7  87  ~/dockerfile
 |4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
+-'  7  87  ~/dockerfile
+|4,39,7,87,1695426651,"~/dockerfile"
 -'  8  16  ~/dockerfile
 |4,39,8,16,1695426571,"~/dockerfile"
 -'  8  16  ~/dockerfile
@@ -112,152 +240,34 @@
 |4,39,8,16,1695426571,"~/dockerfile"
 -'  8  16  ~/dockerfile
 |4,39,8,16,1695426571,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  9  2  ~/dockerfile
-|4,39,9,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426533,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426403,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426403,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426403,"~/dockerfile"
--'  10  2  ~/dockerfile
-|4,39,10,2,1695426403,"~/dockerfile"
--'  8  20  ~/dockerfile
-|4,39,8,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  8  20  ~/dockerfile
-|4,39,8,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  8  20  ~/dockerfile
-|4,39,8,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  8  20  ~/dockerfile
-|4,39,8,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695426328,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695425973,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695425973,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695425973,"~/dockerfile"
--'  9  20  ~/dockerfile
-|4,39,9,20,1695425973,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425825,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425770,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425770,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425770,"~/dockerfile"
--'  6  9  ~/dockerfile
-|4,39,6,9,1695425770,"~/dockerfile"
--'  15  14  ~/dockerfile
-|4,39,15,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  15  14  ~/dockerfile
-|4,39,15,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  15  14  ~/dockerfile
-|4,39,15,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  15  14  ~/dockerfile
-|4,39,15,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
--'  16  14  ~/dockerfile
-|4,39,16,14,1695425556,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
+-'  8  16  ~/dockerfile
+|4,39,8,16,1695426571,"~/dockerfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/readme.md
+	*	1695430243	0
+	"	4	37
+	^	4	38
+	.	4	37
+	+	1	69
+	+	2	36
+	+	2	73
+	+	4	37
 
 > ~/chagas-app/src/App.js
 	*	1695428216	0
